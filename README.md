@@ -1,5 +1,6 @@
 # desafio_americanas
-Análise de BI
+Análise de BI.
+
 Projeto realizado em 2022. Os desafios têm como objetivo avaliar conhecimentos em raciocínio lógico, habilidades em linguagens de programação e capacidade de análise de informações.
 
 - Para a resolução dos desafios, é solicitado o uso prioritário da linguagem SQL e Python, podendo ser mesclados com o uso de R ou ferramentas de visualização de dados como Power BI, DataStudio, entre outras.
