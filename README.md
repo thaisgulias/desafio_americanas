@@ -1,4 +1,5 @@
 # desafio_americanas
+Análise de BI
 Projeto realizado em 2022. Os desafios têm como objetivo avaliar conhecimentos em raciocínio lógico, habilidades em linguagens de programação e capacidade de análise de informações.
 
 - Para a resolução dos desafios, é solicitado o uso prioritário da linguagem SQL e Python, podendo ser mesclados com o uso de R ou ferramentas de visualização de dados como Power BI, DataStudio, entre outras.
@@ -21,7 +22,9 @@ Neste desafio, é solicitado que sejam buscadas bases de dados externas e agrega
 
 a. O plano de negócio deve ser focado na geração de caixa e considerar um horizonte de 3 anos.
 
-b. Além disso, é necessário identificar outras informações internas que seriam úteis para melhorar a projeção de 3 anos e justificar sua relevância para a análise.
+
+Resolução, possível acessar resolução no pdf abaixo:
+https://drive.google.com/file/d/1wR2EP7woEijcrAvmr0PfG2TgljK_wFNu/view?usp=sharing
+![image](https://github.com/thaisgulias/desafio_americanas/assets/122481212/2485eed7-067c-4a8e-b6df-d0e6c8d50c7a)
 
 
-Resolução:
