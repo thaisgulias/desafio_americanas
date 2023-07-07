@@ -1,0 +1,12 @@
+SELECT F.*, vs.Visitas, V.Vendas
+FROM Visitas vs
+LEFT JOIN Vendas V
+on vs.mes = v.mes
+and vs.departamento = v.Departamento
+and vs.uf = v.UF
+and vs.item = v.item
+LEFT JOIN Financeiro F
+on vs.mes = f.mes
+and vs.departamento = f.Departamento
+and vs.uf = f.UF
+and vs.item = f.item
